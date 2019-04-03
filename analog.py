@@ -105,3 +105,5 @@ while True:
     pwm.ChangeDutyCycle(output)
 	# Below is the time interval in seconds between each sensor reading
     sleep(1.0)
+
+	
